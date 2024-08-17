@@ -1,0 +1,6 @@
+[submodule "application/btsbackend"]
+	path = application/btsbackend
+	url = git@github.com:hugs-for-bugs-codefury/backend-bug-tracking-system.git
+[submodule "application/btsfrontend"]
+	path = application/btsfrontend
+	url = git@github.com:hugs-for-bugs-codefury/frontend-bug-tracking-system.git
